@@ -1,4 +1,4 @@
-### Hello, my name is Guilherme Menoci
+### Hello, I'm Guilherme Menoci
 
 - 🚩 São Paulo
 - 💻 Java Developer
