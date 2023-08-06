@@ -1,7 +1,7 @@
-### Olá, me chamo Guilherme Menoci
+### Hello, my name is Guilherme Menoci
 
 - 🚩 São Paulo
-- 💻 Desenvolvedor Java
+- 💻 Java Developer
 
 <div align="center">
   <a href="https://github.com/GuilhermeMenoci">
