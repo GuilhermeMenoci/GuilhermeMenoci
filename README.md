@@ -1,7 +1,7 @@
 ### Hello, I'm Guilherme Menoci
 
 - 🚩 São Paulo
-- 💻 Java Developer
+- 💻 Software Engineer
 
 <div align="center">
   <a href="https://github.com/GuilhermeMenoci">
